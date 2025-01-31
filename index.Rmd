@@ -6,14 +6,19 @@ links:
     url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
-  - label: GitHub
+  - lab el: GitHub
     url: "https://github.com/"
   - label: Email
     url: "mailto:email@email.com"
 output:
-  postcards::trestles
+  postcards::onofre
 ---
- 
+<style>
+body {
+  color: #000000;
+}
+</style>
+
 ## Bio
 
 Frank Hermosillo studies neural networks and their applications at Google 
