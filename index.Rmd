@@ -1,45 +1,80 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "A. Román Zamora López"
+image: "RomanElGuapo.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - lab el: GitHub
-    url: "https://github.com/"
+  - label: GitHub
+    url: "https://github.com/RomanElGuapo"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:angelzl@lcg.unam.mx"
 output:
   postcards::onofre
 ---
-<style>
-body {
-  color: #000000;
-}
-</style>
 
-## Bio
+Undergraduate student in  Genomic Sciences at UNAM, with a multidisciplinary interest in bioinformatics and data analysis.
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+## Academic Background
 
-## Education
+Undergraduate Student in Genomic Sciences - National Autonomous University of Mexico
+    
+Diploma in Herbal Medicine (Añadir link a imagen)
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+## Research Experience
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Six months of training in a research laboratory focused on gene regulatory networks, with experience in applied bioinformatics.
 
-**The University of California, Berkeley** | Berkeley, CA
+## Technical Skills
 
-B.S. in Computer Science | September 2005 - May 2009
+Programming: Python (main), R, C, Bash
+    
+Data Analysis: Genome assembly, massive sequencing analysis
+    
+Infrastructure & Tools: Server management, databases, Git/GitHub, BLAST, etc.
+    
+Artificial Intelligence: Applications in bioinformatics
 
-## Experience
+### Languages
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+Spanish: Native
+    
+English: Fluent (B2 level, certification in progress)
+    
+## About me
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+### Values and Personality
+
+- Loyal, hardworking, dedicated, and committed.
+    
+- Patient, calm, kind, and diplomatic.
+    
+- Respectful, tolerant, and open to new ideas.
+  
+- Values sincerity and harmony within a group.
+
+### Work Skills
+
+- Meticulous, reliable, and precise in task execution.
+    
+- Analytical and systematic in decision-making.
+    
+- Ability to follow procedures and minimize risks.
+    
+- Strong teamwork and collaboration skills to achieve common goals.
+
+### Preferences and Motivations
+
+- Prefers stable, peaceful, and organized environments.
+    
+- Motivated by belonging to a group or organization.
+    
+- Avoids confrontations and conflict situations.
+
+### Areas for Improvement
+
+- Can be overly patient and compassionate with others.
+    
+- Feels stressed under pressure or in conflicts, sometimes becoming indecisive.
+
+- Tends to yield in discussions to avoid confrontations.
