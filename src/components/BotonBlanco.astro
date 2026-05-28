@@ -1,12 +1,12 @@
 ---
-const { href, texto, posicion } = Astro.props;
+const { href, texto, style } = Astro.props;
 ---
 
 <a
   href={href}
-  class={`
+  style={style}
+  class="
     absolute
-    ${posicion}
 
     backdrop-blur-md
     bg-black/20
@@ -26,7 +26,7 @@ const { href, texto, posicion } = Astro.props;
     hover:text-white
 
     inline-block
-  `}
+  "
 >
   {texto}
 </a>

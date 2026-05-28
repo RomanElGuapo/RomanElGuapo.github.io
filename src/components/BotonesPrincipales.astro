@@ -1,0 +1,12 @@
+---
+const { posicion_init = 43 } = Astro.props;
+import BotonBlanco from "./BotonBlanco.astro"
+---
+
+<BotonBlanco href="/#" texto="Inicio" style={`top:1.5%; right:${posicion_init}%`}/>
+
+<BotonBlanco href="/trayectoria" texto="Trayectoria" style={`top:1.5%; right:${posicion_init -5.5}%`}/>
+
+<BotonBlanco href="/proyectos" texto="Logros" style={`top:1.5%; right:${posicion_init - 9.3}%`}/>
+
+<BotonBlanco href="/contacto" texto="Contacto" style={`top:1.5%; right:${posicion_init - 14}%`}/>
